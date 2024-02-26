@@ -4,4 +4,5 @@ instance_tenancy = "default"
 
 tags = {
 Name = "wutyee-vpc"
+Purpose = "Jenkins Demo"
 }
